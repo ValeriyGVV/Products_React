@@ -1,0 +1,12 @@
+.cart-block {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 3;
+    border: 1px solid #c6c6c6;
+    border-radius: .25rem;
+}
+
+.cart-item-remove {
+    cursor: pointer;
+}
